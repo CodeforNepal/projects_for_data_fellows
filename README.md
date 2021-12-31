@@ -32,7 +32,7 @@
 | How datacamp certificate helped me get a job in data/tech.   | NA        | NA     |
 | How I switched my career from software/(some thing else) to data leveraging on the fellowship.      | NA       | NA   |
 | Why students and professionals of other domains (environment, sociology, pyschology, teaching, etc) should do the fellowship (as someone who did the same) ?   | NA        | NA      |
-
+| After completing the fellowship, I competed in a Kaggle competition and here is my experience      | NA       | NA   |
 
 
 ## Misc
