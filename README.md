@@ -28,7 +28,7 @@
 ## Experiencial Blogs
 | Idea        | Description | Data          |
 | :---        |    :----    |         :---  |
-| Header      | Title       | Here's this   |
+| My experience of Code for Nepal's Data fellowship program as a primary/secondary level computer/english/math teacher in Nepal      | NA       | NA   |
 | Paragraph   | Text        | And more      |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
