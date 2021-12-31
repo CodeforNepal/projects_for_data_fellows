@@ -1,2 +1,2 @@
 # Project ideas for Data Fellows
-### What can I do after completing a Datacamp career track?
+### A collection of projects ideas for data fellows 2021/2022 after completing a *Datacamp* career track
