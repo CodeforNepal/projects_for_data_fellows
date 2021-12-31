@@ -6,7 +6,7 @@
 ## Data Visualization
 | Idea        | Description | Data          |
 | :---        |    :----    |         :---  |
-| Header      | Title       | Here's this   |
+| Covid vaccinations  | The vaccination statistics in Nepal and other countries  |[link](https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/country_data/Nepal.csv)   |
 | Paragraph   | Text        | And more      |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
