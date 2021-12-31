@@ -29,8 +29,8 @@
 | Idea        | Description | Data          |
 | :---        |    :----    |         :---  |
 | My experience of Code for Nepal's Data fellowship program as a primary/secondary level computer/english/math teacher in Nepal      | NA       | NA   |
-| Paragraph   | Text        | And more      |
-| Header      | Title       | Here's this   |
+| How datacamp certificate helped excel my career.   | NA        | NA     |
+| How I switched my career from software/(some thing else) to data leveraging on the fellowship      | NA       | NA   |
 | Paragraph   | Text        | And more      |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
