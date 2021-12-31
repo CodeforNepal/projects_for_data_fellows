@@ -31,7 +31,7 @@
 | My experience of Code for Nepal's Data fellowship program as a primary/secondary level computer/english/math teacher in Nepal.      | NA       | NA   |
 | How datacamp certificate helped me get a job in data/tech.   | NA        | NA     |
 | How I switched my career from software/(some thing else) to data leveraging on the fellowship.      | NA       | NA   |
-| Paragraph   | Text        | And more      |
+| Why students and professionals of other domains (environment, sociology, pyschology, teaching, etc) should do the fellowship (as someone who did the same) ?   | Text        | And more      |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
