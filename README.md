@@ -39,8 +39,9 @@
 | Idea        | Description | Data          |
 | :---        |    :----    |         :---  |
 | I generated synthetic data contextual to Nepal so that students and professionals have something to learn data analysis and visualization from.    | NA       | NA   |
-| Paragraph   | Text        | And more      |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| I developed a chat bot ...  to solve some data problem | NA        | NA      |
+| I developed a twitter bot ...  to solve some data problem | NA        | NA      |
+| I created an app/API .. to solve some data problem  | NA        | NA      |
+| I created a tool which will help with data annotation/labelling      | NA       | NA   |
+| I created a data literacy curriculum tailored to my students/government/etc. based on what I learnt from Datacamp      | NA       | NA   |
+
