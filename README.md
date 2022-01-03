@@ -38,7 +38,7 @@
 ## Misc
 | Idea        | Description | Data          |
 | :---        |    :----    |         :---  |
-| Header      | Title       | Here's this   |
+| I generated synthetic data contextual to Nepal so that students and professionals have something to learn data analysis and visualization from.    | NA       | NA   |
 | Paragraph   | Text        | And more      |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
