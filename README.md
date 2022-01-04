@@ -8,10 +8,7 @@
 | :---        |    :----    |         :---  |
 | Covid data  | The covid statistics for Nepal and other countries (vaccinations, tests, positivity, hospital, cases, deaths, etc.) updated regularly. |[link](https://github.com/owid/covid-19-data/)   |
 | Paragraph   | Text        | And more      |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+
 
 
 ## Analysis Projects
@@ -19,10 +16,7 @@
 | :---        |    :----    |         :---  |
 | Covid data  | The covid statistics for Nepal and other countries (vaccinations, tests, positivity, hospital, cases, deaths, etc.) updated regularly.|[link](https://github.com/owid/covid-19-data/)   |
 | Paragraph   | Text        | And more      |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+
 
 
 ## Experiencial Blogs
