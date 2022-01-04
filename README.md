@@ -7,7 +7,7 @@
 | Idea        | Description | Data          |
 | :---        |    :----    |         :---  |
 | Covid data  | The covid statistics for Nepal and other countries (vaccinations, tests, positivity, hospital, cases, deaths, etc.) updated regularly. |[link](https://github.com/owid/covid-19-data/)   |
-| Paragraph   | Text        | And more      |
+| Exploration of Zip's law for Nepali language and viz   | [description](https://en.wikipedia.org/wiki/Zipf%27s_law)    | [sample text file](https://github.com/Aryal007/nepali_text_generation/blob/master/data/sports_news_nepali_1000.txt) and other sources      |
 
 
 
