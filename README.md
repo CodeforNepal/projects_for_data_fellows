@@ -28,7 +28,7 @@
 | How I switched my career from software/(some thing else) to data leveraging on the fellowship.      | NA       | NA   |
 | Why students and professionals of other domains (environment, sociology, pyschology, teaching, etc) should do the fellowship (as someone who did the same) ?   | NA        | NA      |
 | After completing the fellowship, I competed in a Kaggle competition and here is my experience      | NA       | NA   |
-
+| {add more}   | {add more}         | {add more}      |
 
 ## Misc
 | Idea        | Description | Data          |
@@ -39,4 +39,4 @@
 | I created an app/API .. to solve some data problem  | NA        | NA      |
 | I created a tool which will help with data annotation/labelling      | NA       | NA   |
 | I created a data literacy curriculum tailored to my students/government/etc. based on what I learnt from Datacamp      | NA       | NA   |
-
+| {add more}   | {add more}         | {add more}      |
