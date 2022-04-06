@@ -8,8 +8,8 @@
 | :---        |    :----    |         :---  |
 | Covid data  | The covid statistics for Nepal and other countries (vaccinations, tests, positivity, hospital, cases, deaths, etc.) updated regularly. |[link](https://github.com/owid/covid-19-data/)   |
 | Exploration of Zip's law for Nepali language and viz   | [description](https://en.wikipedia.org/wiki/Zipf%27s_law)    | [sample text file](https://github.com/Aryal007/nepali_text_generation/blob/master/data/sports_news_nepali_1000.txt) and other sources      |
+| Stackoverflow Survey of Devs 2021 | In May 2021 over 80,000 developers participated in stackoverflow survey where they provided info on how they learn and level up, which tools they’re using, and what they want.         | [link](https://insights.stackoverflow.com/survey/2021)      |
 | {add more}   | {add more}         | {add more}      |
-
 
 ## Analysis Projects
 | Idea        | Description | Data          |
