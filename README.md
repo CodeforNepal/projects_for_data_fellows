@@ -18,6 +18,12 @@
 | Sentiment analysis from twitter data (for something contextual to Nepal, be careful of private information)   | Twitter         | NA     |
 | {add more}   | {add more}         | {add more}      |
 
+## SQL
+| Idea        | Description | Link          |
+| :---        |    :----    |         :---  |
+| SQL puzzles  | Fork the given repository, solve the SQL puzzles, and document your learning  | [SQL Puzzles](https://github.com/smpetersgithub/AdvancedSQLPuzzles/blob/main/Advanced%20SQL%20Puzzles/Advanced%20SQL%20Puzzles.pdf) |
+| SQL Case Study  | [Case Study](https://www.interviewquery.com/p/sql-case-study) is a great way to get real-world experience of technical concepts. Complete this SQL case study challenge and document your learning along the way. You can create a GitHub repo to work collaboratively with other fellows. | [Case Studies](https://8weeksqlchallenge.com/) |
+| SQL Murder Mystery  | Wanna be SQL Holmes? Try to solve this murder mystery and share your approach in the group. | [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries) |
 
 
 ## Experiencial Blogs
@@ -29,6 +35,8 @@
 | Why students and professionals of other domains (environment, sociology, pyschology, teaching, etc) should do the fellowship (as someone who did the same) ?   | NA        | NA      |
 | After completing the fellowship, I competed in a Kaggle competition and here is my experience      | NA       | NA   |
 | {add more}   | {add more}         | {add more}      |
+
+
 
 ## Misc
 | Idea        | Description | Data          |
